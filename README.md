@@ -9,5 +9,5 @@ onConfigurationChanged()のイベントが発生せず、スマホの向きが�
 
 <br/>
 <br/>
-画像は [illust image](https://illustimage.com/)様 ©dak のを使わせていもらいました。<br/>
+画像は [illust image](https://illustimage.com/) 様 のを使わせていもらいました。<br/>
 ありがとうござます。
