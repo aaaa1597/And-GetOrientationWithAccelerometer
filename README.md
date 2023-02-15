@@ -8,5 +8,6 @@ onConfigurationChanged()のイベントが発生せず、スマホの向きが�
 <br/>
 <br/>
 画像は[illust image](https://illustimage.com/) ©dak 様のを使わせていもらいました。<br/>
-![rabit](https://user-images.githubusercontent.com/27885482/218999940-64ae96c2-5878-4244-9771-ae0edd1892f9.png)
 ありがとうござます。
+
+![rabit](https://user-images.githubusercontent.com/27885482/218999940-64ae96c2-5878-4244-9771-ae0edd1892f9.png)
