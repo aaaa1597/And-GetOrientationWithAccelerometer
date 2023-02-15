@@ -1,0 +1,2 @@
+# And-GetOrientationWithAccelerometer
+加速度センサーから回転をとるサンプル
